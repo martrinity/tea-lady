@@ -1,1 +1,19 @@
-/* Escribe acá tus estilos*/
+*{
+	background-color: #E8FC99;
+}
+
+header{
+	font-family: 'Inknut Antiqua', serif;
+	font-size: 30px;
+	line-height: 100px;
+	text-align: center;
+	color: #5D2C55;
+}
+.formularious{
+	color: ;
+}
+
+
+.formularious input{
+	display: inline-block;
+}
